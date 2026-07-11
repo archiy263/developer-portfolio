@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
-import { FaReact, FaNodeJs, FaPython, FaDocker, FaAws, FaDatabase, FaGithub } from 'react-icons/fa';
-import { SiTypescript, SiTailwindcss, SiMongodb, SiPostgresql, SiGraphql } from 'react-icons/si';
+import { FaReact, FaNodeJs, FaPython, FaDocker, FaAws, FaGithub } from 'react-icons/fa';
+import { SiTypescript, SiTailwindcss, SiMongodb, SiPostgresql } from 'react-icons/si';
 
 const skills = [
   { category: 'Programming Languages', items: [{ name: 'JavaScript', icon: FaNodeJs }, { name: 'Python', icon: FaPython }, { name: 'C++', icon: SiTypescript }, { name: 'SQL', icon: SiPostgresql }] },
